@@ -129,5 +129,5 @@ credit-card-fraud-detection/
 
 ## 🧑‍💻 Author
 
-**Your Name**
+Kumar Gaurav Tiwari
 [GitHub](https://github.com/kumargauravtiwari)
