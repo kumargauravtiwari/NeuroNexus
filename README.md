@@ -73,49 +73,11 @@ This project uses a real-world dataset of credit card transactions to build a bi
 
 ---
 
-## 📦 How to Run This Project
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/yourusername/credit-card-fraud-detection.git
-   cd credit-card-fraud-detection
-   ```
-
-2. Install dependencies:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Download the dataset from [Kaggle](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud) and place `creditcard.csv` in the project folder.
-
-4. Run the Jupyter Notebook or Python script:
-
-   ```bash
-   python fraud_detection.py
-   ```
-
----
-
 ## ✅ Results
 
 * Random Forest achieved higher precision and recall than Logistic Regression.
 * Using SMOTE significantly improved detection of fraudulent transactions.
 * Confusion matrix visualizations help understand model errors.
-
----
-
-## 📌 Folder Structure
-
-```
-credit-card-fraud-detection/
-│
-├── fraud_detection.py          # Main Python script
-├── creditcard.csv              # Dataset (not included for size reasons)
-├── README.md                   # Project documentation
-├── requirements.txt            # Python package requirements
-```
 
 ---
 
